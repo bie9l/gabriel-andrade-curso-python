@@ -128,8 +128,8 @@ def menu():
         print(f'Qual tarefa deseja marcar como concluida ? \n {tarefa1}')
         #numero tarefa, e de acordo com o numero, concluida = True
     elif escolha == 4:
-        listaCategoria()
-        pass
+        #listaCategoria()
+            pass
         #fazer def listando as tarefas por categoria e printar
     elif escolha == 5:
         # listaPrioridade()
